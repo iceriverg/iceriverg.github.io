@@ -31,12 +31,12 @@ searchBox.addListener('places_changed', function() {
     console.log(typeof photos);
     var PIC_PATH = 'https://github.com/iceriverg/iceriverg.github.io/blob/master/CopenWeek/'
     var photoUrls1 = [
-      PIC_PATH + '02_0271_2014-09_y_c01.jpg',
-      PIC_PATH + '02_0255_2017-06_y_c01.jpg',
-      PIC_PATH + '02_0255_2017-06_y_c02.jpg',
-      PIC_PATH + '02_0917_2016-07_y_c02.jpg',
-      PIC_PATH + '02_0227_2015-03_y_c01.jpg',
-      PIC_PATH + '02_1156_2016-01_y_c01.jpg',
+      'https://iceriverg.github.io/CopenWeek/02_0271_2014-09_y_c01.jpg',
+      'https://iceriverg.github.io/CopenWeek/02_0255_2017-06_y_c01.jpg',
+      'https://iceriverg.github.io/CopenWeek/02_0255_2017-06_y_c02.jpg',
+      'https://iceriverg.github.io/CopenWeek/02_0917_2016-07_y_c02.jpg',
+      'https://iceriverg.github.io/CopenWeek/02_0227_2015-03_y_c01.jpg',
+      'https://iceriverg.github.io/CopenWeek/02_1156_2016-01_y_c01.jpg',
         
     ];
     var photoUrls2 = [
