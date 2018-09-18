@@ -31,12 +31,12 @@ searchBox.addListener('places_changed', function() {
     console.log(typeof photos);
     
     var photoUrls1 = [
-     'file:///CopenhagenWeek/2018_06_05_recomendation/CopenWeek/02_0271_2014-09_y_c01.jpg',
-     'file:///CopenhagenWeek/2018_06_05_recomendation/CopenWeek/02_0255_2017-06_y_c01.jpg',
-     'file:///CopenhagenWeek/2018_06_05_recomendation/CopenWeek/02_0255_2017-06_y_c02.jpg',
-     'file:///CopenhagenWeek/2018_06_05_recomendation/CopenWeek/02_0917_2016-07_y_c02.jpg',
-     'file:///CopenhagenWeek/2018_06_05_recomendation/CopenWeek/02_0227_2015-03_y_c01.jpg',
-     'file:///CopenhagenWeek/2018_06_05_recomendation/CopenWeek/02_1156_2016-01_y_c01.jpg',
+     '/CopenhagenWeek/2018_06_05_recomendation/CopenWeek/02_0271_2014-09_y_c01.jpg',
+     '/CopenhagenWeek/2018_06_05_recomendation/CopenWeek/02_0255_2017-06_y_c01.jpg',
+     '/CopenhagenWeek/2018_06_05_recomendation/CopenWeek/02_0255_2017-06_y_c02.jpg',
+     '/CopenhagenWeek/2018_06_05_recomendation/CopenWeek/02_0917_2016-07_y_c02.jpg',
+     '/CopenhagenWeek/2018_06_05_recomendation/CopenWeek/02_0227_2015-03_y_c01.jpg',
+     '/CopenhagenWeek/2018_06_05_recomendation/CopenWeek/02_1156_2016-01_y_c01.jpg',
         
     ];
     var photoUrls2 = [
